@@ -193,3 +193,4 @@ obj-$(CONFIG_GNSS_SIRF)		+= gnsssirf/
 obj-$(CONFIG_GNSS)		+= gnss/
 obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
 obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
